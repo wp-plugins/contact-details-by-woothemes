@@ -7,7 +7,7 @@
  * Author: WooThemes
  * Author URI: http://www.woothemes.com
  * Requires at least: 3.8.1
- * Tested up to: 3.8.1
+ * Tested up to: 4.0
  *
  * Text Domain: contact-details-by-woothemes
  * Domain Path: /languages/
